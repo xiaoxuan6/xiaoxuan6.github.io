@@ -1,0 +1,20 @@
+theme: jekyll-theme-cayman
+
+# Setup
+title:        xiaoxuan6
+tagline:      No practice, no gain in one's wit.
+baseurl:      ""
+paginate:     1
+locale:       "en_US"
+
+# About/contact
+author:
+  name:       xiaoxuan6
+  url:        https://xiaoxuan6.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+# Others
+markdown: kramdown
