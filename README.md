@@ -1,3 +1,7 @@
+# xiaoxuan6 博客
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaoxuan6&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
+
 # 开源扩展包文档
 
 [laravel-ali-green](https://xiaoxuan6.github.io/laravel-ali-green/) laravel 阿里鉴黄包括文本、图片、视频，关键词文本检测以及对图片涉黄、暴恐、敏感检测、广告、二维码视频色情、暴恐涉政视频等
