@@ -13,9 +13,10 @@
 [git同时push推送到github、gitee等多个平台](https://github.com/xiaoxuan6/xiaoxuan6.github.io/issues/1)
 
 [Github上更改项目技术标签、语言属性 （JavaScript / Java 等）](https://github.com/xiaoxuan6/xiaoxuan6.github.io/issues/2)
-## License
 
-### Mysql
-[悲观锁，乐观锁、共享锁、排它锁的区别](./interview.md#悲观锁，乐观锁、共享锁、排它锁的区别)
+# Interview
+[PHP 总结](./interview.md)
+
+## License
 
 MIT
