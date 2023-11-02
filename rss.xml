@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vinhson</title>
+  
+  
+  <link href="https://xiaoxuan6.github.io/rss.xml" rel="self"/>
+  
+  <link href="https://xiaoxuan6.github.io/"/>
+  <updated>2023-11-02T01:29:44.858Z</updated>
+  <id>https://xiaoxuan6.github.io/</id>
+  
+  <author>
+    <name>Vinhson</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>git 文件名变换大小写无法提交</title>
+    <link href="https://xiaoxuan6.github.io/posts/83f5bccf.html"/>
+    <id>https://xiaoxuan6.github.io/posts/83f5bccf.html</id>
+    <published>2023-04-30T12:16:40.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;问题背景&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#问题背景&quot;&gt;&lt;/a&gt; 问题背景&lt;/h1&gt;
+&lt;p&gt;在 &lt;code&gt;php&lt;/code&gt; 和 &lt;code&gt;go&lt;/code&gt; 中频繁切换，有时候会在 &lt;code&gt;php&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="git" scheme="https://xiaoxuan6.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>将 docker 镜像发布到 github</title>
+    <link href="https://xiaoxuan6.github.io/posts/e272f6e9.html"/>
+    <id>https://xiaoxuan6.github.io/posts/e272f6e9.html</id>
+    <published>2023-03-24T11:36:25.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前提：要使用 &lt;a href=&quot;http://ghcr.io&quot;&gt;ghcr.io&lt;/a&gt;，您需要一个 GitHub 帐户和存储 Docker 镜像的仓库。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;以下是一些简单的步骤：&lt;/p&gt;
+&lt;p&gt;1、 在</summary>
+        
+      
+    
+    
+    
+    
+    <category term="github" scheme="https://xiaoxuan6.github.io/tags/github/"/>
+    
+    <category term="docker" scheme="https://xiaoxuan6.github.io/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github上更改项目技术标签、语言属性</title>
+    <link href="https://xiaoxuan6.github.io/posts/59efc619.html"/>
+    <id>https://xiaoxuan6.github.io/posts/59efc619.html</id>
+    <published>2023-03-23T07:09:59.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;修改标签&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#修改标签&quot;&gt;&lt;/a&gt; 修改标签&lt;/h1&gt;
+&lt;p&gt;例如：上传的一个项目，被GitHub自动划分为JavaScript标签，但个人更倾向于Java标签&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="github" scheme="https://xiaoxuan6.github.io/tags/github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>phpstudy 手动安装 php8.*</title>
+    <link href="https://xiaoxuan6.github.io/posts/10cf4bdc.html"/>
+    <id>https://xiaoxuan6.github.io/posts/10cf4bdc.html</id>
+    <published>2023-03-10T06:23:15.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;安装-php-8&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#安装-php-8&quot;&gt;&lt;/a&gt; 安装 PHP 8.*&lt;/h1&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="php" scheme="https://xiaoxuan6.github.io/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git commit 规范</title>
+    <link href="https://xiaoxuan6.github.io/posts/4ed95393.html"/>
+    <id>https://xiaoxuan6.github.io/posts/4ed95393.html</id>
+    <published>2023-03-06T12:27:08.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;commit-message-规范&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#commit-message-规范&quot;&gt;&lt;/a&gt; Commit Message 规范&lt;/h1&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    
+    <category term="git" scheme="https://xiaoxuan6.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP8 新特性：命名参数、Match 表达式、Nullsafe 操作符</title>
+    <link href="https://xiaoxuan6.github.io/posts/8771b634.html"/>
+    <id>https://xiaoxuan6.github.io/posts/8771b634.html</id>
+    <published>2023-01-04T13:28:08.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;命名参数&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#命名参数&quot;&gt;&lt;/a&gt; 命名参数&lt;/h1&gt;
+&lt;p&gt;php7&lt;/p&gt;
+&lt;figure class=&quot;highlight php&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="php" scheme="https://xiaoxuan6.github.io/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PHP8 新特性：构造器属性提升使用及注意事项</title>
+    <link href="https://xiaoxuan6.github.io/posts/5398291e.html"/>
+    <id>https://xiaoxuan6.github.io/posts/5398291e.html</id>
+    <published>2023-01-04T13:28:08.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;本篇主要说下 &lt;code&gt;PHP8&lt;/code&gt; 构造器属性提升的用法，这个特性对于一些需要在构造器中设置或初始化一些类属性的时候非常有用（包括 &lt;code&gt;public&lt;/code&gt;、&lt;code&gt;protected&lt;/code&gt; 和</summary>
+        
+      
+    
+    
+    
+    
+    <category term="php" scheme="https://xiaoxuan6.github.io/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何使用 go-swagger 文档</title>
+    <link href="https://xiaoxuan6.github.io/posts/afcd2575.html"/>
+    <id>https://xiaoxuan6.github.io/posts/afcd2575.html</id>
+    <published>2022-12-20T11:55:37.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;安装&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#安装&quot;&gt;&lt;/a&gt; 安装&lt;/h1&gt;
+&lt;h2 id=&quot;在linux下安装的流程&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="go" scheme="https://xiaoxuan6.github.io/tags/go/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安装 Filebeat</title>
+    <link href="https://xiaoxuan6.github.io/posts/c5c02008.html"/>
+    <id>https://xiaoxuan6.github.io/posts/c5c02008.html</id>
+    <published>2022-12-08T04:48:27.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;安装&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#安装&quot;&gt;&lt;/a&gt; 安装&lt;/h1&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="linux" scheme="https://xiaoxuan6.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>将 docker logs 添加到 ELK</title>
+    <link href="https://xiaoxuan6.github.io/posts/47004904.html"/>
+    <id>https://xiaoxuan6.github.io/posts/47004904.html</id>
+    <published>2022-12-08T04:43:25.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前提：必须对 docker log 有所了解，不了解的前往&amp;gt;&amp;gt; &lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="docker" scheme="https://xiaoxuan6.github.io/tags/docker/"/>
+    
+    <category term="elasticsearch" scheme="https://xiaoxuan6.github.io/tags/elasticsearch/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>docker-mysql 主从复制</title>
+    <link href="https://xiaoxuan6.github.io/posts/68142548.html"/>
+    <id>https://xiaoxuan6.github.io/posts/68142548.html</id>
+    <published>2022-12-05T08:10:01.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;docker-mysql-主从复制&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#docker-mysql-主从复制&quot;&gt;&lt;/a&gt; docker-mysql 主从复制&lt;/h1&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="docker" scheme="https://xiaoxuan6.github.io/tags/docker/"/>
+    
+    <category term="mysql" scheme="https://xiaoxuan6.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 中的 &#39;&gt; /dev/null 2&gt;&amp;1&#39; 是什么</title>
+    <link href="https://xiaoxuan6.github.io/posts/1098e2cb.html"/>
+    <id>https://xiaoxuan6.github.io/posts/1098e2cb.html</id>
+    <published>2022-12-04T08:22:58.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;/dev/null是 Linux 中的伪设备文件，用于丢弃来自程序的输出，尤其是在命令行上执行的输出。&lt;br</summary>
+        
+      
+    
+    
+    
+    
+    <category term="linux" scheme="https://xiaoxuan6.github.io/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>docker-redis-cluster 集群、扩容、缩容</title>
+    <link href="https://xiaoxuan6.github.io/posts/554db5ac.html"/>
+    <id>https://xiaoxuan6.github.io/posts/554db5ac.html</id>
+    <published>2022-11-23T00:38:30.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;docker-compose-搭建-redis-集群&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#docker-compose-搭建-redis-集群&quot;&gt;&lt;/a&gt; docker-compose 搭建 redis</summary>
+        
+      
+    
+    
+    
+    
+    <category term="redis" scheme="https://xiaoxuan6.github.io/tags/redis/"/>
+    
+    <category term="docker" scheme="https://xiaoxuan6.github.io/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>docker 私有仓库</title>
+    <link href="https://xiaoxuan6.github.io/posts/9f48367d.html"/>
+    <id>https://xiaoxuan6.github.io/posts/9f48367d.html</id>
+    <published>2022-11-07T02:57:48.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;私有仓库&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#私有仓库&quot;&gt;&lt;/a&gt; 私有仓库&lt;/h1&gt;
+&lt;p&gt;有时候使用 &lt;code&gt;Docker Hub&lt;/code&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="docker" scheme="https://xiaoxuan6.github.io/tags/docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github Top 200 Go</title>
+    <link href="https://xiaoxuan6.github.io/posts/9483327d.html"/>
+    <id>https://xiaoxuan6.github.io/posts/9483327d.html</id>
+    <published>2022-10-23T16:00:00.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;GitHub中文排行榜，帮助你发现优秀中文项目，可以无语言障碍地、更高效地吸收优秀经验成果</summary>
+    
+    
+    
+    <category term="github" scheme="https://xiaoxuan6.github.io/categories/github/"/>
+    
+    
+    <category term="go" scheme="https://xiaoxuan6.github.io/tags/go/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github Top 200 PHP</title>
+    <link href="https://xiaoxuan6.github.io/posts/54e5375a.html"/>
+    <id>https://xiaoxuan6.github.io/posts/54e5375a.html</id>
+    <published>2022-10-23T16:00:00.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;GitHub中文排行榜，帮助你发现优秀中文项目，可以无语言障碍地、更高效地吸收优秀经验成果</summary>
+    
+    
+    
+    <category term="github" scheme="https://xiaoxuan6.github.io/categories/github/"/>
+    
+    
+    <category term="php" scheme="https://xiaoxuan6.github.io/tags/php/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github Top 200 Python</title>
+    <link href="https://xiaoxuan6.github.io/posts/63b7cc13.html"/>
+    <id>https://xiaoxuan6.github.io/posts/63b7cc13.html</id>
+    <published>2022-10-23T16:00:00.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;GitHub中文排行榜，帮助你发现优秀中文项目，可以无语言障碍地、更高效地吸收优秀经验成果</summary>
+    
+    
+    
+    <category term="github" scheme="https://xiaoxuan6.github.io/categories/github/"/>
+    
+    
+    <category term="python" scheme="https://xiaoxuan6.github.io/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>国内外免费接码、在线收短信</title>
+    <link href="https://xiaoxuan6.github.io/posts/26fe934c.html"/>
+    <id>https://xiaoxuan6.github.io/posts/26fe934c.html</id>
+    <published>2022-10-22T08:58:36.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+    <summary type="html">这是一篇加密文章，内容是收费技术。如果你非常好奇，请与我联系下方留言或者直接下方打赏留言。</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>mysql中 in 和 exists 区别?</title>
+    <link href="https://xiaoxuan6.github.io/posts/ea71eba6.html"/>
+    <id>https://xiaoxuan6.github.io/posts/ea71eba6.html</id>
+    <published>2022-10-18T12:50:42.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;1、如果查询的两个表大小相当，那么用in和exists差别不大。&lt;/p&gt;
+&lt;p&gt;2、如果两个表中一个较小，一个是大表，则子查询表大的用exists，子查询表小的用in。&lt;/p&gt;
+&lt;p&gt;3、not in 和not exists：如果查询语句使用了not</summary>
+        
+      
+    
+    
+    
+    <category term="面试题" scheme="https://xiaoxuan6.github.io/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+    
+    <category term="mysql" scheme="https://xiaoxuan6.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在数据库里什么是最左匹配原则</title>
+    <link href="https://xiaoxuan6.github.io/posts/693b9312.html"/>
+    <id>https://xiaoxuan6.github.io/posts/693b9312.html</id>
+    <published>2022-10-18T12:41:32.000Z</published>
+    <updated>2023-11-02T01:29:44.858Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最左匹配原则是针对索引的&lt;/p&gt;
+&lt;p&gt;举例来说：两个字段（name,age）建立联合索引，如果where age=12这样的话，是没有利用到索引的，&lt;br</summary>
+        
+      
+    
+    
+    
+    <category term="面试题" scheme="https://xiaoxuan6.github.io/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+    
+    <category term="mysql" scheme="https://xiaoxuan6.github.io/tags/mysql/"/>
+    
+  </entry>
+  
+</feed>
