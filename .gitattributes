@@ -1,0 +1,3 @@
+*.html linguist-language=PHP
+*.css linguist-vendored
+*.js linguist-vendored
